@@ -27,7 +27,11 @@ h1 { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 60px; fo
   background-color: #ddd;
   color: black;
 }
-
+	
+.column {
+  float: left;
+  width: 100%;
+}
 a{
 	font-size:50px;
 }
